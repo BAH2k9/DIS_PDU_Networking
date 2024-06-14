@@ -1,0 +1,14 @@
+C:\Users\baile\source\repos\DIS_PDU_Networking\bin\Debug\net8.0\DIS_PDU_Networking.exe
+C:\Users\baile\source\repos\DIS_PDU_Networking\bin\Debug\net8.0\DIS_PDU_Networking.deps.json
+C:\Users\baile\source\repos\DIS_PDU_Networking\bin\Debug\net8.0\DIS_PDU_Networking.runtimeconfig.json
+C:\Users\baile\source\repos\DIS_PDU_Networking\bin\Debug\net8.0\DIS_PDU_Networking.dll
+C:\Users\baile\source\repos\DIS_PDU_Networking\bin\Debug\net8.0\DIS_PDU_Networking.pdb
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.AssemblyInfoInputs.cache
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.AssemblyInfo.cs
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.csproj.CoreCompileInputs.cache
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.dll
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\refint\DIS_PDU_Networking.dll
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.pdb
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\DIS_PDU_Networking.genruntimeconfig.cache
+C:\Users\baile\source\repos\DIS_PDU_Networking\obj\Debug\net8.0\ref\DIS_PDU_Networking.dll
